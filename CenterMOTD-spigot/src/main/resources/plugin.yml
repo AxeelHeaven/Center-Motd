@@ -1,0 +1,4 @@
+name: CenterMOTD
+version: '${project.version}'
+main: com.axeelheaven.centermotd.CenterMOTDSpigot
+api-version: 1.17

@@ -1,0 +1,11 @@
+default:
+  one_more: true
+  motd:
+    '1': "&aMinecraft Network &c[1.8]"
+    '2': "&b&lNEW BEDWARS!&r"
+
+maintenance:
+  enabled: false
+  motd:
+    '1': "&aMinecraft Network &c[1.8]"
+    '2': "&c&lWe are in maintenance!&r"
